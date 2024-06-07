@@ -23,6 +23,7 @@ public class SendKeys {
 		action.pause(2000).sendKeys("alok@123").pause(2000).sendKeys(passwordTextFild, "1234").pause(2000).click(loginButton).perform();
 		//action.pause(2000).sendKeys("alok@123").pause(2000).sendKeys(passwordTextFild, "1234").pause(2000).sendKeys(Keys.ENTER).perform();
 		// Updating code for pull
+		// Rahul done the changes
 	}
 
 }
